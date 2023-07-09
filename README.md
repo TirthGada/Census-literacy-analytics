@@ -15,6 +15,8 @@ State/Union Territory with highest Literacy Rates for Total Population :- KERALA
 
 31.936240% of the total population residing in PUNJAB belongs to Scheduled Caste (ST) category , being the highest in INDIA
 
+50.715516% of the total working population in ANDHRA-PRADESH are involved in agriculture
+
 ## Features
 - **Literacy Rate Calculation**: The project includes a module to calculate literacy rates based on the provided dataset. It computes the ratio of the number of literate individuals to the total population for each state or region.
 
