@@ -2,20 +2,20 @@
 This project focuses on analyzing and visualizing literacy rates , agriculture workers & people from scheduled caste-tribe categories across different states , UT's & districts.
 
 ## Introduction
-The Literacy Rate Project aims to analyze and visualize the literacy rates of various states or regions. By exploring the dataset, we gain insights into the literacy rates and their distribution. The project involves data processing, calculating literacy rates, and generating visualizations to present the findings.
+The Literacy Rate Project aims to analyze and visualize the literacy rates of various states or regions. By exploring the dataset, we gain insights into the literacy rates and their distribution. The project involves data processing, calculating literacy rates, and generating visualizations to present the findings using python libraries like **NUMPY , PANDAS & MATPLOTLIB**.
 
 ## Conclusions/Results
-State/Union Territory with highest Literacy Rates for Male Population :- KERALA
+- State/Union Territory with highest Literacy Rates for Male Population :- **KERALA**
 
-State/Union Territory with highest Literacy Rates for Female Population :- KERALA
+- State/Union Territory with highest Literacy Rates for Female Population :- **KERALA**
 
-State/Union Territory with highest Literacy Rates for Total Population :- KERALA
+- State/Union Territory with highest Literacy Rates for Total Population :- **KERALA**
 
-94.7993% of the total population residing in LADAKH belongs to Scheduled Tribe (ST) category , being the highest in INDIA
+- **94.7993%** of the total population residing in **LADAKH** belongs to **Scheduled Tribe (ST)** category , being the highest in INDIA
 
-31.936240% of the total population residing in PUNJAB belongs to Scheduled Caste (ST) category , being the highest in INDIA
+- **31.936240%** of the total population residing in **PUNJAB** belongs to **Scheduled Caste (SC)** category , being the highest in INDIA
 
-50.715516% of the total working population in ANDHRA-PRADESH are involved in agriculture
+- **50.715516%** of the total working population in **ANDHRA-PRADESH** are involved in **agriculture**
 
 ## Features
 - **Literacy Rate Calculation**: The project includes a module to calculate literacy rates based on the provided dataset. It computes the ratio of the number of literate individuals to the total population for each state or region.
