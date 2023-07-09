@@ -1,5 +1,5 @@
 # Census-literacy-analytics
-This project focuses on analyzing and visualizing literacy rates across different states , UT's & districts.
+This project focuses on analyzing and visualizing literacy rates , agriculture workers & people from scheduled caste-tribe categories across different states , UT's & districts.
 
 ## Introduction
 The Literacy Rate Project aims to analyze and visualize the literacy rates of various states or regions. By exploring the dataset, we gain insights into the literacy rates and their distribution. The project involves data processing, calculating literacy rates, and generating visualizations to present the findings.
